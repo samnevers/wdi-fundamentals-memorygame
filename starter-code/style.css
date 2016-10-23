@@ -15,6 +15,7 @@ h1 {
 
 p {
 	text-align: center;
+	font-family: 'Helvetica', sans-serif;
 }
 
 ul {
@@ -53,6 +54,7 @@ nav a:hover {
 footer {
 	background-color: #808080;
 	text-align: center;
+	font-family: 'Helvetica', sans-serif;
 }
 
 .board {
@@ -66,11 +68,16 @@ footer {
 	height: 200px;
 	width: 150px;
 	border: 1px black solid;
-	border-radius: 10px;
+	border-radius: 22px;
 	float: left;
 	margin: 8%;
 }
 
 .name {
 	color: #ff0000;
+}
+
+img {
+	height: 200px;
+	width: 150px;
 }
